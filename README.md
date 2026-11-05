@@ -24,10 +24,11 @@ This project builds a dashboard that answers these questions and turns the findi
 
 The goal of this dashboard is to help a retail business understand how it is performing and where it is losing money. It tracks sales, profit and orders over time, and shows which customer segments, product categories and products drive profit or loss. The findings are turned into simple recommendations, such as where to review discounts.
 
-Dashboard
-https://github.com/chaudharyyash968-debug/Superstore-Sales-Dashboard/blob/main/Superstore%20Dashboard.png
 Analysed 9,993 order lines ($2.30M sales, $286.41K profit, 12.47% margin)
 - Cleaned the data in Power Query: fixed data types, removed 1 duplicate row and built a staging query
 - Sales grew 29.47% in 2016 and 20.36% in 2017 after a small dip in 2015
 - Found three loss-making sub-categories (Tables, Bookcases, Supplies), about $22.4K combined
 - Showed that high discounts are linked to some losses (Tables 26%, Bookcases 21% vs 15.6% overall), but not all of them
+
+Dashboard Preview :
+https://github.com/chaudharyyash968-debug/Superstore-Sales-Dashboard/blob/main/Superstore%20Dashboard.png
